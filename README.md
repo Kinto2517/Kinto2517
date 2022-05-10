@@ -6,8 +6,7 @@
 <h3 font-size="20" align="center">Software and Computer Engineer at the same time.</h3>
 
 
-- 🌱 I’m currently learning **High Level Java** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Kinto2517/Kinto2517/programmer.gif"/>
-
+- 🌱 I’m currently learning **High Level Java** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Kinto2517/Kinto2517/master/programmer.gif"/>
 - 👯 I’m looking to collaborate on **Spring Framework**
 
 - 🤝 I’m looking for help with **JPA, Hibernate, ORM**
