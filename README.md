@@ -2,10 +2,14 @@
   <img style="width:14em; height:auto" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif"/>
 </p>
 
-<h1 align="center">Hi, I'm Ersin Yılmaz ASLAN<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+<h1 align="center">Hi, I'm Ersin Yılmaz ASLAN<img width="20px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h3 font-size="20" align="center">Software and Computer Engineer at the same time.</h3>
+<p align="center"> 
+<img style="width:13rem; height:auto" src="https://raw.githubusercontent.com/Kinto2517/Kinto2517/master/programmer.gif"/>
+</p>
 
-<img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Kinto2517/Kinto2517/master/programmer.gif"/>
+
+   
 
 - 🌱 I’m currently learning **High Level Java** 
 
@@ -27,7 +31,7 @@
 
 
 <p align="center">
-  <img style="width:26rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif"/>
+  <img style="width:18rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif"/>
 </p>
 
 
