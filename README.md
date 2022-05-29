@@ -5,7 +5,8 @@
 <h1 align="center">Hi, I'm Ersin Yılmaz ASLAN<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h3 font-size="20" align="center">Software and Computer Engineer at the same time.</h3>
 
-<img align="center" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Kinto2517/Kinto2517/master/programmer.gif"/>
+<img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Kinto2517/Kinto2517/master/programmer.gif"/>
+
 - 🌱 I’m currently learning **High Level Java** 
 
 - 👯 I’m looking to collaborate on **Spring Framework**
