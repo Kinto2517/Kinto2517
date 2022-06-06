@@ -2,7 +2,7 @@
   <img style="width:14em; height:auto" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif"/>
 </p>
 
-<h1 align="center">Hi, I'm Ersin Yılmaz ASLAN<img width="20px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+<h1 align="center">Hi, I'm Ersin Yılmaz ASLAN<img width="10px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h3 font-size="20" align="center">Software and Computer Engineer at the same time.</h3>
 <p align="center"> 
 <img style="width:13rem; height:auto" src="https://raw.githubusercontent.com/Kinto2517/Kinto2517/master/programmer.gif"/>
