@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **JPA, Hibernate, ORM**
 
-- 👨‍💻 All of my projects are available [@Kinto2517](github.com/Kinto2517)
+- 👨‍💻 All of my projects are available [@Kinto2517](https://github.com/Kinto2517?tab=repositories)
 
 - 💬 Ask me about **Why is my code not working... Nevermind it's working**
 
