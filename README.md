@@ -19,7 +19,7 @@
 - 💬 Ask me about **Why is my code not working... Nevermind it's working**
 
 - ⚡ Fun fact **Coding is the reason why you get old at age 5.**
-- Check out my website: <a href="https://kinto2517.github.io" target="blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="aboutme"/></a>** 
+- 💻 Explore my <a href="https://kinto2517.github.io" target="blank">portfolio website</a> to see how I can meet your needs.
 
 
 ---
