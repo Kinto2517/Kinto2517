@@ -195,14 +195,15 @@
 
 <div style="margin-top:10px" align="center">
   <div>
-    <a href="https://codepen.io/kinto2517" target="_blank">
-      <img src="https://img.shields.io/badge/Codepen-000000.svg?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen"/>
-    </a>
+     <a href="https://www.hackerrank.com/kinto2517" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ersin_yilmaz2517" height="30" width="40" /></a>
     <a  href="https://linkedin.com/in/ersinya" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
     </a>
-<a  href="https://github.com/Kinto2517" target="_blank">
+    <a  href="https://github.com/Kinto2517" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+    </a>
+     <a href="https://codepen.io/kinto2517" target="_blank">
+      <img src="https://img.shields.io/badge/Codepen-000000.svg?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen"/>
     </a>
     
   </div>
