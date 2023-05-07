@@ -195,12 +195,12 @@
 
 <div style="margin-top:10px" align="center">
   <div>
-     <a href="https://kinto2517.github.io" target="blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="ersin_yilmaz2517"/></a>
+     <a href="https://kinto2517.github.io" target="blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="aboutme"/></a>
      <a  href="https://linkedin.com/in/ersinya" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
     </a>
-    <a  href="https://linkedin.com/in/ersinya" target="_blank">
-      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+    <a  href="https://www.hackerrank.com/ersin_yilmaz2517?hr_r=1" target="_blank">
+      <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank"/>
     </a>
     <a  href="https://github.com/Kinto2517" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
