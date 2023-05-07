@@ -195,7 +195,10 @@
 
 <div style="margin-top:10px" align="center">
   <div>
-     <a href="https://www.hackerrank.com/kinto2517" target="blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)" alt="ersin_yilmaz2517"/></a>
+     <a href="https://kinto2517.github.io" target="blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=GithubPages&logoColor=white)" alt="ersin_yilmaz2517"/></a>
+     <a  href="https://linkedin.com/in/ersinya" target="_blank">
+      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+    </a>
     <a  href="https://linkedin.com/in/ersinya" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
     </a>
