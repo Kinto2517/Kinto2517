@@ -9,15 +9,11 @@
    
 
 - 🌱 I’m currently learning **High Level Java** 
-
 - 👯 I’m looking to collaborate on **Spring Framework**
-
 - 🤝 I’m looking for help with **JPA, Hibernate, ORM**
-
+- 🪐 I have passed the Spring, Python, Java Tests in Coderspace.
 - 👨‍💻 All of my projects are available [@Kinto2517](https://github.com/Kinto2517?tab=repositories)
-
 - 💬 Ask me about **Why is my code not working... Nevermind it's working**
-
 - ⚡ Fun fact **Coding is the reason why you get old at age 5.**
 - 💻 Explore my <a href="https://kinto2517.github.io" target="blank">portfolio website</a> to see how I can meet your needs.
 
