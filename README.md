@@ -205,7 +205,9 @@
      <a href="https://codepen.io/kinto2517" target="_blank">
       <img src="https://img.shields.io/badge/Codepen-000000.svg?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen"/>
     </a>
-    
+    <a href="https://medium.com/@ersin.yilmaz.aslan" target="_blank">
+      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium"/>
+    </a>
   </div>
 </div>
 
